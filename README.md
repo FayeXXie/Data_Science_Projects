@@ -1,4 +1,4 @@
-# my data analysis projects
+# data analysis coursework project
 Goals: 
 1) to analysed online shopping behavioural patterns and how behaviours and attributes are associated with purchase intention using a dataset from UCI.
 2) to build an effective purchase prediction model using given features, and evaluate the model performance.
